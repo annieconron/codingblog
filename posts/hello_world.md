@@ -26,7 +26,7 @@ This is a 'variable'
 2. number
 3. list
 
-this is a [link](http)
+this is a [link](http://www.google.com)
 
 ```
 let this = 'is a code block'

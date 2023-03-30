@@ -8,7 +8,7 @@ blog({
   // header: <header>Your custom header</header>,
   // section: <section>Your custom section</section>,
   // footer: <footer>Your custom footer</footer>,
-  avatar: "./images/profile_pic.jpg",
+  avatar: "./images/profile_image.jpg",
   avatarClass: "rounded-full",
   author: "An author",
 
