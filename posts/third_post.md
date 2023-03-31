@@ -1,6 +1,7 @@
 ---
 title: Third Blog Post
 publish_date: 2023-03-20
+disable_html_sanitization: true
 ---
 
 This week I learnt how to create classes and arrays. 
@@ -23,4 +24,4 @@ The key distinction is that the order of the array list is what matters.
 - Elements in an array have an index - a value in the array could be the first element of the third etc
 - The ability to have the elements in an order is a crucial and key aspect of an array
 
-[Array Experimenmt] (https://editor.p5js.org/annieconron/full/dMU1pSb8e)
+<iframe width="400" height="442" src="https://editor.p5js.org/annieconron/full/dMU1pSb8e"></iframe>

@@ -1,6 +1,7 @@
 ---
 title: Fourth Blog Post
 publish_date: 2023-03-27
+disable_html_sanitization: true
 ---
 
 Last week I learnt about creating classes and making multiple objects from a class template. 
@@ -11,7 +12,7 @@ This week I learnt about duplicating objects using an array, so I can create a s
 
 In the linked experiment I created a program that easily let me duplicate the object class. I was then able to create an interaction through Implementing a 'for … of' loop.
 
-[Object Array for of Loop](https://editor.p5js.org/annieconron/full/Vhjwom2SG) 
+<iframe width="600" height="442" src="https://editor.p5js.org/annieconron/full/Vhjwom2SG"></iframe>
 
 # Mouse Interaction with an object 
 
@@ -30,7 +31,7 @@ The program tests the distance between the centre of the circle and the location
 
 The linked example demonstrates how the dist function can be implemented.
 
-[Mouse Interaction with an object](https://editor.p5js.org/annieconron/full/jH81Ry0n6)
+<iframe width="600" height="442" src="https://editor.p5js.org/annieconron/full/jH81Ry0n6"></iframe>
 
 **Removing Object from Array**
 
@@ -42,4 +43,4 @@ What happens in this experiment is:
 - In mouse pressed, if the mouse is pressed anywhere then check to see if it is within the object 
   And if so then delete it from the array which should remove it from the canvas  
 
-[Removing Object from Array](https://editor.p5js.org/annieconron/full/117PEBTXm)
+<iframe width="600" height="442" src="https://editor.p5js.org/annieconron/full/117PEBTXm"></iframe>
