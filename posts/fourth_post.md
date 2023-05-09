@@ -1,11 +1,8 @@
 ---
-title: Fourth Blog Post
+title: Object Arrays and Object Interaction
 publish_date: 2023-03-27
 disable_html_sanitization: true
 ---
-
-Last week I learnt about creating classes and making multiple objects from a class template. 
-
 # Object Array
 
 This week I learnt about duplicating objects using an array, so I can create a single variable  and create a for loop to duplicate it.
@@ -20,7 +17,7 @@ In the linked experiment I created a program that easily let me duplicate the ob
 
 Befor I could create some type of interaction I first needed to know how to use the dist function. 
 
-function dist(x1, y1, x2, y2)
+'function dist(x1, y1, x2, y2)'
 
 This function takes two separate points 
 
@@ -29,7 +26,7 @@ By making one point the centre of the circle and the other point where that mous
 The value for the radius of the circle is 'r' - so it is already known that this.r is the distance from the centre to the boarder of the circle.
 The program tests the distance between the centre of the circle and the location of the mouse. If 'd' is greater than the radius 'r' then the mouse is not within the circle and if it is less than 'r' it is within the circle.
 
-The linked example demonstrates how the dist function can be implemented.
+The example demonstrates how the dist function can be implemented.
 
 <iframe width="600" height="442" src="https://editor.p5js.org/annieconron/full/jH81Ry0n6"></iframe>
 

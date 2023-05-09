@@ -3,25 +3,12 @@
 import blog, { ga, redirects, h } from "blog";
 
 blog({
-  title: "Annie Blog",
-  description: "This is my new blog.",
-  // header: <header>Your custom header</header>,
+  title: "Annie's Coding Blog",
+  description: "This is my coding blog where I document my exploration of creative coding.",
+  header: <header>Annie Conron</header>,
   // section: <section>Your custom section</section>,
-  // footer: <footer>Your custom footer</footer>,
-  avatar: "./images/profile_image.jpg",
+  footer: <footer>Email: s3900816@student.RMIT.edu.au</footer>,
+  avatar: "./images/flower.png",
   avatarClass: "rounded-full",
-  author: "An author",
-
-  // middlewares: [
-
-    // If you want to set up Google Analytics, paste your GA key here.
-    // ga("UA-XXXXXXXX-X"),
-
-    // If you want to provide some redirections, you can specify them here,
-    // pathname specified in a key will redirect to pathname in the value.
-    // redirects({
-    //  "/hello_world.html": "/hello_world",
-    // }),
-
-  // ]
+  author: "Annie Conron",
 });

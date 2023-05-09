@@ -1,5 +1,5 @@
 ---
-title: Fifth Blog Post
+title: Exploring Net Art and Effective Complexity
 publish_date: 2023-04-01
 disable_html_sanitization: true
 ---

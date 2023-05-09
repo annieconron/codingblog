@@ -1,13 +1,11 @@
 ---
-title: Second Blog Post
+title: Variables and Conditional Statements
 publish_date: 2023-03-14
 disable_html_sanitization: true
 ---
+# Variables
 
 This week I went through the coding train videos that discussed variables and conditional statements. 
-
-# Variables 
-
 I learnt how to make elements move on their own by creating my own variable. 
 
 **To create a variable:**

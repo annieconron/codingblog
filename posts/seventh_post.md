@@ -1,9 +1,8 @@
 ---
-title: Seventh Blog Post
-publish_date: 2023-04-28
+title: Object-Orientated Programing and Interaction
+publish_date: 2023-05-02
 disable_html_sanitization: true
 ---
-
 # Object-Orientated Programing and Interaction
 
 Upon further experimentation with algorithmic botany and fractal trees, I realised the efficiency of object-oriented programming (OOP) when adding complexity and interactivity to my sketches. OOP provided me with a structured approach to creating a fractal tree, where each component of the tree could be represented as an object with its own properties and behaviors.

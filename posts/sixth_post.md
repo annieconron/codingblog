@@ -1,9 +1,8 @@
 ---
-title: Sixth Blog Post
-publish_date: 2023-04-01
+title: Recursive Patterns and Fractal Shapes
+publish_date: 2023-04-20
 disable_html_sanitization: true
 ---
-
 # Recursive Patterns and Fractal Shapes
 
 Recursion is a powerful concept in coding that revolves around self-reference. It allows us to create functions that call themselves, when applied in net art, recursion becomes an invaluable tool for generating intricate and mesmerizing visuals.
