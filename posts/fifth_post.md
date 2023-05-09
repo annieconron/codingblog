@@ -14,7 +14,7 @@ One of my favourite examples of net art is Mark Napier's Shredder (1998). This a
 
 These are images I created by entering the website url for MOMA and Tublr
 
-![MOMA Website](moma_shredder.png)
-![Tublr Website](tumblr_shredder.png)
+![MOMA Website](./images/moma_shredder.png)
+![Tublr Website](./images/tumblr_shredder.png)
 
 This example displays how data manipulation can be used in net art, whether it's text, images, or real-time information, to dynamically generate visuals and create immersive experiences that respond to changing inputs or external factors.
