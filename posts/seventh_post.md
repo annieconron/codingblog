@@ -1,10 +1,32 @@
 ---
-title: Testing Interaction
+title: Seventh Blog Post
 publish_date: 2023-04-28
 disable_html_sanitization: true
 ---
 
-# This is a test 
+# Object-Orientated Programing and Interaction
+
+Upon further experimentation with algorithmic botany and fractal trees, I realised the efficiency of object-oriented programming (OOP) when adding complexity and interactivity to my sketches. OOP provided me with a structured approach to creating a fractal tree, where each component of the tree could be represented as an object with its own properties and behaviors.
+
+By treating the tree as a system of objects, I could easily manipulate and apply different forces and attributes to each object. For instance, I could define a Branch object with a starting point and an ending point and use methods like 'show()' to render the branch on the canvas. This allowed me to create intricate tree structures with multiple levels of branching.
+
+**Space-Colonization Experiment**
+<iframe width="400" height="442" src="https://editor.p5js.org/annieconron/full/5MSNwgqFu"></iframe>
+
+**Recursive Interaction Experiment**
+<iframe width="400" height="442" src="https://editor.p5js.org/annieconron/full/NyJg5eNNj"></iframe>
+
+One of the key benefits of OOP in net art is the ability to incorporate user interaction seamlessly. In my project, I utilized the 'mousePressed()' function to trigger the growth of additional branches from the root. Each time the mouse is pressed, new branches are added to the array, adding to the visual complexity my net art. 
+By implementing a counter, I could control the timing of certain events. When the mouse is pressed six times, leaves are attached to the last branches in the array, adding a new layer of detail to the artwork.
+
+To further enhance the interactivity and complexity of the tree, I implemented a 'mouseDragged()' function. Attaching the 'jitter()' function from the p5 library to this evert, I simulated the effect of the tree swaying in the wind. As the user drags the mouse, the branches undergo slight random movements, creating a dynamic and organic feel to the tree's motion.
+
+**Mouse Pressed and Dragged Interaction Experiment**
+<iframe width="400" height="442" src="https://editor.p5js.org/annieconron/full/OgjwZLYeO"></iframe>
+
+Coding skills play a crucial role in the creation of net art. The ability to understand and implement OOP concepts allows for the construction of complex and interactive systems that respond to user input. Over the past weeks I have explored a range of coding concepts. Through the thoughtful application of techniques such as recursion and object-oriented programming I have been able to create visually captivating and engaging net art.
+
+**Class Interaction Experiment**
 
 <script>
   class Shrinker {
