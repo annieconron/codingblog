@@ -21,7 +21,7 @@ By implementing a counter, I could control the timing of certain events. When th
 To further enhance the interactivity and complexity of the tree, I implemented a 'mouseDragged()' function. Attaching the 'jitter()' function from the p5 library to this evert, I simulated the effect of the tree swaying in the wind. As the user drags the mouse, the branches undergo slight random movements, creating a dynamic and organic feel to the tree's motion.
 
 **Mouse Pressed and Dragged Interaction Experiment**
-<iframe width="400" height="442" src="https://editor.p5js.org/annieconron/full/OgjwZLYeO"></iframe>
+<iframe width="700" height="642"iframe src="https://editor.p5js.org/annieconron/full/OgjwZLYeO"></iframe>
 
 Coding skills play a crucial role in the creation of net art. The ability to understand and implement OOP concepts allows for the construction of complex and interactive systems that respond to user input. Over the past weeks I have explored a range of coding concepts. Through the thoughtful application of techniques such as recursion and object-oriented programming I have been able to create visually captivating and engaging net art.
 
